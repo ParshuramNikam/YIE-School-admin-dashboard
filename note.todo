@@ -1,0 +1,6 @@
+my-profile : name, school(id), adminID, schoolID
+school-prodfile: schoolId, address, noOfEmp, totalClasses, overallCompletion, aggregateProfile
+teacher-profile: name, id, subjects, delegations
+student-profile: name, id, profile(url)
+
+add-profile: name, contact, schoolId, accessRights, userType
